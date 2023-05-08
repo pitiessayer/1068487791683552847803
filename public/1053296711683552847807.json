@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564995113655",
+    "project_id": "mp3-religi-islam",
+    "storage_bucket": "mp3-religi-islam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564995113655:android:84ed2f782415a26beac332",
+        "android_client_info": {
+          "package_name": "com.musichitz.pemutarmusikmp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564995113655-e46sjtrthh1uaot0rg9ra0ikgnl2ifn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVVGOIGThj_tBzXcFtothp_R5Uv1VUUTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564995113655-e46sjtrthh1uaot0rg9ra0ikgnl2ifn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
